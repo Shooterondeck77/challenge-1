@@ -1,5 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+# This code was given to me for this assiments throught GitLab: UTOR-VIRT-FSF-FT-07-2023-U-LOLC/ 01-HTML-Git-CSS / 02-Challenge
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
